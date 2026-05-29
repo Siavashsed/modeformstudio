@@ -16,7 +16,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Sustainability"
   },
   {
     "title": "Balenciaga's 2021 Couture Return Was the Wake-Up Call Fashion Needed",
@@ -36,7 +37,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Collections"
   },
   {
     "title": "The EU Digital Product Passport Arrived in 2024 and Fashion Was Not Ready",
@@ -57,7 +59,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Editorial"
   },
   {
     "title": "Finance Tips Every Fashion Professional Actually Needs (And Most Ignore)",
@@ -75,7 +78,8 @@
     "posted_iso": "2026-05-29",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Models"
   },
   {
     "title": "The LVMH and Stella McCartney Deal in 2023 Proved Luxury Was Finally Taking Sustainability Seriously",
@@ -94,6 +98,7 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Collections"
   }
 ]
