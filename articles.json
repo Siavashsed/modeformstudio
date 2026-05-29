@@ -58,5 +58,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Finance Tips Every Fashion Professional Actually Needs (And Most Ignore)",
+    "slug": "finance-tips-fashion-professionals",
+    "meta_description": "Practical finance tips for models and fashion designers who earn irregularly. Real strategies, not generic advice.",
+    "date": "May 29, 2026",
+    "date_iso": "2026-05-29",
+    "author": "Marcus Reid",
+    "image": "https://images.pexels.com/photos/7698916/pexels-photo-7698916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "consumerfinance.gov",
+      "irs.gov"
+    ],
+    "posted_iso": "2026-05-29",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The LVMH and Stella McCartney Deal in 2023 Proved Luxury Was Finally Taking Sustainability Seriously",
+    "slug": "lvmh-stella-mccartney-sustainability-2023",
+    "meta_description": "LVMH's 2023 stake in Stella McCartney reshaped luxury fashion's sustainability conversation. Here's what it meant and why it mattered.",
+    "date": "February 23, 2023",
+    "date_iso": "2023-02-23",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/3850459/pexels-photo-3850459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "businessoffashion.com",
+      "bain.com",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-05-29",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
