@@ -100,5 +100,42 @@
       "en"
     ],
     "category": "Collections"
+  },
+  {
+    "title": "Finance Tips for Fashion Professionals Who Are Tired of Being Broke Between Seasons",
+    "slug": "finance-tips-fashion-professionals-2",
+    "meta_description": "Practical finance tips for fashion designers and models navigating irregular income, tax gaps, and cash flow chaos. Real advice that actually works.",
+    "date": "May 31, 2026",
+    "date_iso": "2026-05-31",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/5900029/pexels-photo-5900029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "irs.gov",
+      "consumerfinance.gov"
+    ],
+    "posted_iso": "2026-05-31",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The French Fashion Pact of 2019 Was Fashion's Most Serious Climate Commitment Yet",
+    "slug": "fashion-pact-2019-climate-commitment",
+    "meta_description": "The Fashion Pact of 2019 united 32 fashion houses under real climate targets. Here's what it meant for the industry then, and why it mattered.",
+    "date": "September 29, 2019",
+    "date_iso": "2019-09-29",
+    "author": "Sophie Chen",
+    "image": "https://images.pexels.com/photos/33714902/pexels-photo-33714902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "unep.org",
+      "mckinsey.com",
+      "sciencebasedtargets.org"
+    ],
+    "posted_iso": "2026-05-31",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
