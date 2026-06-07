@@ -139,5 +139,44 @@
       "en"
     ],
     "category": "Designers"
+  },
+  {
+    "title": "Finance Tips for Fashion Creatives Who Are Tired of Scrambling Every Month",
+    "slug": "finance-tips-fashion-creatives",
+    "meta_description": "Practical finance tips for fashion professionals and models who want real money stability, not generic advice. Written from real industry experience.",
+    "date": "June 07, 2026",
+    "date_iso": "2026-06-07",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/7774251/pexels-photo-7774251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "irs.gov",
+      "vanguard.com",
+      "bls.gov"
+    ],
+    "posted_iso": "2026-06-07",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Balenciaga's 2021 Couture Return Proved Fashion Still Has Something Real to Say",
+    "slug": "balenciaga-couture-return-2021-meaning",
+    "meta_description": "Balenciaga returned to couture in 2021 for the first time in 53 years. Here's why it mattered more than anyone expected.",
+    "date": "March 21, 2021",
+    "date_iso": "2021-03-21",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/3984875/pexels-photo-3984875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "businessoffashion.com",
+      "fhcm.paris",
+      "statista.com",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-06-07",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
