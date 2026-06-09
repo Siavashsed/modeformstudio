@@ -207,10 +207,7 @@ footer{background:var(--noir);border-top:1px solid var(--rule);padding:60px 28px
 
 /* ---------- REVEAL ---------- */
 .reveal{opacity:0;transform:translateY(20px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1)}
-.reveal.in{opacity:1;transform:none}
-
-/* ---------- RESPONSIVE ---------- */
-@media (max-width:960px){
+.reveal.in{opacity:1;transform:none}@media (max-width:960px){
   .masthead{padding:18px 22px 12px}
   .mast-nav{display:none}
   .mast-hamb{display:flex}
@@ -230,8 +227,7 @@ footer{background:var(--noir);border-top:1px solid var(--rule);padding:60px 28px
   .look-grid{grid-template-columns:repeat(2,1fr);gap:22px}
   .foot-cols{grid-template-columns:1fr;gap:24px;text-align:center}
   .foot-bottom{justify-content:center;text-align:center}
-}
-@media (max-width:560px){
+}@media (max-width:560px){
   .hero-headline{font-size:28px;line-height:1.1}
   .hero-stand{font-size:14.5px}
   .look-grid{grid-template-columns:1fr;gap:24px}
@@ -243,16 +239,12 @@ footer{background:var(--noir);border-top:1px solid var(--rule);padding:60px 28px
   .contrib-strip{gap:24px}
   .contrib{max-width:96px}
   .contrib .av{width:64px;height:64px}
-}
-@media (prefers-reduced-motion:reduce){
+}@media (prefers-reduced-motion:reduce){
   *{animation:none!important;transition:none!important}
   html{scroll-behavior:auto}
-}
-</style>
+}</style>
 </head>
 <body>
-<!--SHELL:ACCENT:#e8c47a-->
-<!--SHELL:HEADER-->
 <header class="masthead">
   <div class="masthead-bar">
     <span>Vol. 03 / Issue 14</span>
@@ -281,13 +273,11 @@ footer{background:var(--noir);border-top:1px solid var(--rule);padding:60px 28px
   <a href="./#newsletter">Subscribe</a>
   <a href="about">About</a>
 </div>
-<!--/SHELL:HEADER-->
-
 <!-- HERO (split: image + text) -->
 <section class="hero" id="issue">
   <div class="hero-grid">
     <div class="hero-img">
-      <img src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1400&q=85&auto=format&fit=crop"
+      <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1400&q=85&auto=format&fit=crop"
            alt="A model in a sculptural coat, photographed in profile against deep shadow."
            onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1400&q=85&auto=format&fit=crop'">
     </div>
@@ -484,7 +474,6 @@ footer{background:var(--noir);border-top:1px solid var(--rule);padding:60px 28px
 </section>
 
 
-<!--SHELL:FOOTER-->
 <footer>
   <a href="./" class="foot-mast" aria-label="Modeform Studio">MODE<em>F</em>ORM</a>
   <div class="foot-sub">Studio &middot; Casting &middot; Craft &middot; Est. MMXXIV</div>
@@ -516,8 +505,6 @@ footer{background:var(--noir);border-top:1px solid var(--rule);padding:60px 28px
     <span class="right">Vol. 03 / Issue 14</span>
   </div>
 </footer>
-<!--/SHELL:FOOTER-->
-
 <script>
 /* MOBILE DRAWER */
 (function(){
