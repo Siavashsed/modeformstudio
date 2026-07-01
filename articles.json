@@ -198,5 +198,43 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Fashion People Are Bad With Money. Here's How to Fix That.",
+    "slug": "finance-tips-fashion-industry",
+    "meta_description": "General finance tips tailored for fashion professionals who live project-to-project. Real strategies, honest trade-offs, no fluff.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/3984865/pexels-photo-3984865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "consumerfinance.gov",
+      "irs.gov",
+      "freelancersunion.org"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Gucci Went Genderless in 2020 and Fashion Had No Good Excuse Left",
+    "slug": "gucci-genderless-fashion-2020",
+    "meta_description": "Gucci's 2020 genderless runway shift forced fashion to reckon with binary design. Here's what it meant, what it cost, and what actually changed.",
+    "date": "October 19, 2020",
+    "date_iso": "2020-10-19",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/8346048/pexels-photo-8346048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "businessoffashion.com",
+      "mckinsey.com",
+      "vogue.com",
+      "statista.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
