@@ -236,5 +236,41 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The Money Habit That Saved My First Fashion Collection",
+    "slug": "finance-tips-fashion-money",
+    "meta_description": "Real finance tips for fashion pros paid in lumps, not paychecks. Cash buffers, tax traps, and the pricing mistake I made for years.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/6693632/pexels-photo-6693632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "bls.gov",
+      "finrafoundation.org"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Nike Just Bought a Sneaker Brand That Makes No Sneakers",
+    "slug": "nike-rtfkt-digital-fashion-2021",
+    "meta_description": "Nike's December 2021 buyout of RTFKT and the boom in digital-only fashion signal a real shift in how designers and models will work next.",
+    "date": "November 06, 2021",
+    "date_iso": "2021-11-06",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/7689082/pexels-photo-7689082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "about.nike.com",
+      "voguebusiness.com",
+      "businessoffashion.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
