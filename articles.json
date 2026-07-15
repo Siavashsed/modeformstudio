@@ -272,5 +272,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The Money Rules I Wish Someone Told Me Before My First Fashion Week",
+    "slug": "money-rules-irregular-income-fashion",
+    "meta_description": "Real finance tips for people with irregular income, from a fashion pro who learned the hard way. Budgeting, taxes, and saving when your paychecks jump around.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/9755376/pexels-photo-9755376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "irs.gov",
+      "federalreserve.gov",
+      "bankrate.com"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
