@@ -307,5 +307,43 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Fashion Freelancers Lose Thousands Every Season to One Tax Mistake",
+    "slug": "finance-tips-lumpy-fashion-income",
+    "meta_description": "Practical finance tips for fashion designers and models with lumpy income: tax reserves, rate floors, and the buffer that actually holds.",
+    "date": "July 20, 2026",
+    "date_iso": "2026-07-20",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/7147593/pexels-photo-7147593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "bls.gov",
+      "irs.gov",
+      "federalreserve.gov"
+    ],
+    "posted_iso": "2026-07-20",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "32 Fashion Giants Signed a Climate Pact in Biarritz. It Has No Teeth.",
+    "slug": "fashion-pact-biarritz-2019",
+    "meta_description": "The Fashion Pact launched at the G7 in August 2019 with 32 companies and 150 brands. Here is what it commits to, and what it quietly leaves out.",
+    "date": "June 26, 2019",
+    "date_iso": "2019-06-26",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/11733651/pexels-photo-11733651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "ellenmacarthurfoundation.org",
+      "quantis.com",
+      "unfccc.int",
+      "reuters.com"
+    ],
+    "posted_iso": "2026-07-20",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
