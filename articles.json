@@ -345,5 +345,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Best Booking Month Is Lying to Your Budget",
+    "slug": "general-finance-tips-uneven-income",
+    "meta_description": "General finance tips for models, stylists and designers with uneven income: budget on your worst month, protect tax money and build a real cushion.",
+    "date": "November 15, 2026",
+    "date_iso": "2026-11-15",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/6326117/pexels-photo-6326117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "irs.gov",
+      "federalreserve.gov"
+    ],
+    "posted_iso": "2026-11-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "New York Just Gave Models Ownership of Their Digital Faces",
+    "slug": "new-york-fashion-workers-act-2024",
+    "meta_description": "New York's Fashion Workers Act, signed December 2024, caps agency commissions, forces payment in 45 days and bans unapproved AI digital replicas of models.",
+    "date": "May 25, 2024",
+    "date_iso": "2024-05-25",
+    "author": "Dominique Beaumont",
+    "image": "",
+    "outbound_links": [
+      "nysenate.gov",
+      "modelalliance.org",
+      "mckinsey.com",
+      "reuters.com"
+    ],
+    "posted_iso": "2026-11-15",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
