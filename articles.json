@@ -382,5 +382,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Rent Doesn't Care That the Client Pays in 90 Days",
+    "slug": "general-finance-tips-irregular-income",
+    "meta_description": "General finance tips for fashion freelancers: bucket your income, set aside tax money, build a six-month cushion and chase invoices without the guilt.",
+    "date": "November 16, 2026",
+    "date_iso": "2026-11-16",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/8297717/pexels-photo-8297717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "irs.gov",
+      "federalreserve.gov",
+      "modelalliance.org"
+    ],
+    "posted_iso": "2026-11-16",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
