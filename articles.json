@@ -400,5 +400,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The 30% Rule That Saved My Fashion Career From Tax Season",
+    "slug": "general-finance-tips-fashion-freelancers",
+    "meta_description": "General finance tips for models, stylists and designers paid in lumps: a cash buffer, a separate tax account and a fixed salary you pay yourself.",
+    "date": "November 17, 2026",
+    "date_iso": "2026-11-17",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/8085942/pexels-photo-8085942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "irs.gov",
+      "upwork.com"
+    ],
+    "posted_iso": "2026-11-17",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
