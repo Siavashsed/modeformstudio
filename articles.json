@@ -418,5 +418,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The 97-Day Invoice That Rewrote Every Money Rule I Had",
+    "slug": "finance-tips-irregular-fashion-income-2",
+    "meta_description": "General finance tips built for irregular fashion income: a fake salary, a separate tax account, and a safety net sized to your slowest season.",
+    "date": "November 18, 2026",
+    "date_iso": "2026-11-18",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/4087392/pexels-photo-4087392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "irs.gov",
+      "federalreserve.gov",
+      "modelalliance.org"
+    ],
+    "posted_iso": "2026-11-18",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
