@@ -454,5 +454,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Fashion Pays Late, So Your Money Rules Must Be Early",
+    "slug": "general-finance-tips-fashion-pay-late",
+    "meta_description": "General finance tips for fashion freelancers: pay yourself a salary, tax-proof every invoice, and size your buffer by the slowest client.",
+    "date": "November 20, 2026",
+    "date_iso": "2026-11-20",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/5717840/pexels-photo-5717840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "irs.gov",
+      "federalreserve.gov"
+    ],
+    "posted_iso": "2026-11-20",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
