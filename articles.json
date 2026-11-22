@@ -488,5 +488,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Income Is Lumpy, So Your Budget Can't Be Monthly",
+    "slug": "lumpy-income-budget-fashion-finance",
+    "meta_description": "General finance tips for fashion and modeling work: why monthly budgets fail uneven income, and the pay-yourself-a-wage system that fixed my own cash flow.",
+    "date": "November 22, 2026",
+    "date_iso": "2026-11-22",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/14820438/pexels-photo-14820438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "bls.gov",
+      "irs.gov"
+    ],
+    "posted_iso": "2026-11-22",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The EU Textiles Strategy of 2022 Put Fast Fashion on Notice",
+    "slug": "eu-textiles-strategy-2022-fast-fashion",
+    "meta_description": "The EU's March 2022 textiles strategy targets fast fashion, unsold stock and fiber waste. Here's what designers and models should actually take from it.",
+    "date": "October 14, 2022",
+    "date_iso": "2022-10-14",
+    "author": "Dominique Beaumont",
+    "image": "https://images.pexels.com/photos/36731320/pexels-photo-36731320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "environment.ec.europa.eu",
+      "europarl.europa.eu",
+      "ellenmacarthurfoundation.org"
+    ],
+    "posted_iso": "2026-11-22",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
